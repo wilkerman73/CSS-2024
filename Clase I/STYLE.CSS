@@ -1,0 +1,23 @@
+button{
+    background-color: brown;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: chocolate;
+
+}
+ 
+button:focus{
+    background-color: crimson;
+}
+
+nav ul li a {
+    font-size: 72px;
+    
+}
+a [href="/"] {
+    color: rgb(120, 163, 21);
+}

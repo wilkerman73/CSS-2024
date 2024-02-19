@@ -1,0 +1,71 @@
+   
+   /*
+   h1, h2, h4 {
+    color: #008080;
+    font-size: 25px;
+    margin: 15px;
+}
+*/
+
+
+
+ /* Selectores   Clase */
+/*
+ .example{
+    color: darkred;
+    font-size: 20px;
+ }
+
+ */
+
+  
+  /*Selectores   Parrafo  */
+
+  /*
+  p{
+    color: rgba(153, 0, 255, 0.863);
+    font-size: 15px;
+  }
+*/
+
+
+  /* Selectores   Id  */
+
+  /*
+  #my-p {
+    color: rgb(7, 22, 156);
+    font-size: 8px;
+    border-radius: 10px;
+  } /*
+
+
+    /* Selectores   Id  */
+
+/*  anidar  */
+/*
+.card a{
+    color: darkgreen;
+    font-size: 25px;
+}*/
+
+/*Selector por Atributos
+nav ul li a {
+    font-size: 42px;   
+}
+
+nav ul li a [href= "/"] {
+    color: blue;
+    font-size: 24px;
+}
+*/
+button :hover {
+    background-color: brown;
+    color: rgb(33, 6, 77);
+    padding: 25px;
+    border-radius: 10px;
+  
+}
+
+button:hover {
+    background-color: blueviolet;
+}
